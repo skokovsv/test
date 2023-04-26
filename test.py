@@ -1,0 +1,7 @@
+a=input()
+b=int(input())
+print(a*b)
+print(a+""+" "*abs(b-4)+""+a)
+print(a*b)
+# print(abs(b-4))
+# print(b,a,a)
